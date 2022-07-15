@@ -14,5 +14,4 @@ public class Test2Demo
 		}
 //			System.out.println(b);
 	}
-	
 }
